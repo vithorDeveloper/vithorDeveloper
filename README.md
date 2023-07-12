@@ -1,7 +1,7 @@
-## Hi! I'm Vithor Santos 👋
+![Header](./your-header-image-name.png)
 
-- 🔭 An aspiring Full Stack.
-- 🌱 student at [Rocketseat](https://www.rocketseat.com.br).
+- 🔭 Um aspirante Full Stack.
+- 🌱 Estudante na [Rocketseat](https://www.rocketseat.com.br).
 
 ##
 
