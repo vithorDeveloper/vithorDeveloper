@@ -1,6 +1,5 @@
 ![git](https://github.com/vithorDeveloper/portf-lio/assets/116108525/95228ca6-3537-4789-a299-7a229cdbf1b3)
 
-- 🔭 Um aspirante Full Stack.
 - 🌱 Estudante na [EBAC](https://ebaconline.com.br).
 
 ##
