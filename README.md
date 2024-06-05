@@ -1,39 +1,50 @@
-![git](https://github.com/vithorDeveloper/portf-lio/assets/116108525/95228ca6-3537-4789-a299-7a229cdbf1b3)
 
-##
+![header2](https://github.com/v1t0r-png/v1t0r-png/assets/171513090/6e9867ea-abfc-4182-9d11-da8ab9a988c2)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=999999&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+me+chamo+Carlos+Santos;Sou+um+Dev+Front-end;Seja+bem-vindo!)](https://git.io/typing-svg)
+
+<br>
 
 <div aling="center">
-  <a href="https://github.com/vithorDeveloper">
-  <img height="150em" width="500em" src="https://github-readme-stats.vercel.app/api?username=vithorDeveloper&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="150em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vithorDeveloper&layout=compact&langs_count=7&theme=onedark"/>
+  <a href="https://github.com/v1t0r-png">
+  <img height="150em" width="500em" src="https://github-readme-stats.vercel.app/api?username=v1t0r-png&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="150em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1t0r-png&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 
-  ##
-  
-  ## Main Skills
+<br>
+<br>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=v1t0r-png&theme=dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
+
+<br>
+<br>
+
+## Habilidades Principais (Main Skills)
 <div style="display: flex">
-  <img align="center" alt="vithor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="vithor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="vithor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="vithor-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="vithor-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img align="center" alt="vithor-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img align="center" alt="vithor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="vithor-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
-  <img align="center" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  <img align="center" alt="vithor-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
+  <img align="center" alt="vithor-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" />
+  <img align="center" alt="vithor-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
+  <img align="center" alt="vithor-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" />
+  <img align="center" alt="vithor-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gulp/gulp-plain.svg" />
+  <img align="center" alt="vithor-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg">
+  <img align="center" alt="vithor-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg">
+  <img align="center" alt="vithor-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="vithor-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img align="center" alt="vithor-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+  <img align="center" alt="vithor-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
+  <img align="center" alt="vithor-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
+  <img align="center" alt="vithor-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" />
+  <img align="center" alt="vithor-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
 </div>
 
-  ## Learning
-  <div style:"display: flex">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"/>
-  <img align="center" alt="vithor-React" height="30" width="40" fill="white" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
- </div>
-  
-##
+<br>
 
-<div>  
-  <a href = "mailto:vitorsantosdev663@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vithor-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+## Estudando (Studying)
+<div style="display: flex">
+  <img align="center" alt="vithor-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
+  <img align="center" alt="vithor-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg">
+  <img align="center" alt="vithor-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
 </div>
