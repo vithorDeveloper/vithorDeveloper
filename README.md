@@ -46,8 +46,8 @@
 <br>
 
 <div style="display: flex">
-  <img height="200" width="500" src="https://github-readme-stats.vercel.app/api?username=vithorDeveloper&theme=dark&show_icons=true&hide_border=true&count_private=true">
-  <img height="200" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vithorDeveloper&theme=dark&show_icons=true&hide_border=true&layout=compact">
+  <img height="200" width="50%" src="https://github-readme-stats.vercel.app/api?username=vithorDeveloper&theme=dark&show_icons=true&hide_border=true&count_private=true">
+  <img height="200" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vithorDeveloper&theme=dark&show_icons=true&hide_border=true&layout=compact">
 </div>
 
 <br>
