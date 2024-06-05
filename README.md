@@ -53,7 +53,7 @@
 <br>
 
 <div>
-  <img width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=vithorDeveloper&theme=dark&hide_border=true">
+  <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=vithorDeveloper&theme=dark&hide_border=true">
 </div>
 </div>
 </div>
