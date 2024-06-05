@@ -45,9 +45,9 @@
 <br>
 <br>
 
-<div style="display: flex">
-  <img height="200" width="50%" src="https://github-readme-stats.vercel.app/api?username=vithorDeveloper&theme=dark&show_icons=true&hide_border=true&count_private=true">
-  <img height="200" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vithorDeveloper&theme=dark&show_icons=true&hide_border=true&layout=compact">
+<div width="100%" style="display: flex">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=vithorDeveloper&theme=dark&show_icons=true&hide_border=true&count_private=true">
+  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vithorDeveloper&theme=dark&show_icons=true&hide_border=true&layout=compact">
 </div>
 
 <br>
