@@ -1,17 +1,12 @@
-![github-header-image](https://github.com/vithorDeveloper/vithorDeveloper/assets/116108525/f27df3e8-81d3-4841-8ef6-c9b620e8d6f4)
-
-<br>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=999999&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+me+chamo+Carlos+Santos;Sou+um+Dev+Front-end;Seja+bem-vindo!)](https://git.io/typing-svg)
-
-<br>
+<div style="display: flex">
+<div align="center">
     
-![vithorDeveloper's Stats](https://github-readme-stats.vercel.app/api?username=vithorDeveloper&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![vithorDeveloper's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vithorDeveloper&theme=dark&show_icons=true&hide_border=true&layout=compact)
-![vithorDeveloper's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vithorDeveloper&theme=dark&hide_border=true)
+<img src="https://github.com/vithorDeveloper/vithorDeveloper/assets/116108525/f27df3e8-81d3-4841-8ef6-c9b620e8d6f4">
 
 <br>
 <br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=999999&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+me+chamo+Carlos+Santos;Sou+um+Dev+Front-end;Seja+bem-vindo!">
 
 <br>
 <br>
@@ -44,4 +39,23 @@
   <img align="center" alt="vithor-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
   <img align="center" alt="vithor-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg">
   <img align="center" alt="vithor-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
+</div>
+
+<br>
+<br>
+<br>
+
+<div align="center"> 
+<div>
+  <img height="200" width="500" src="https://github-readme-stats.vercel.app/api?username=vithorDeveloper&theme=dark&show_icons=true&hide_border=true&count_private=true">
+  <img height="200" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vithorDeveloper&theme=dark&show_icons=true&hide_border=true&layout=compact">
+</div>
+
+<br>
+
+<div>
+  <img width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=vithorDeveloper&theme=dark&hide_border=true">
+</div>
+</div>
+</div>
 </div>
