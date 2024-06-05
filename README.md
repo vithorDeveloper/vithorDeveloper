@@ -5,17 +5,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=999999&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+me+chamo+Carlos+Santos;Sou+um+Dev+Front-end;Seja+bem-vindo!)](https://git.io/typing-svg)
 
 <br>
-
-<div aling="center">
-  <a href="https://github.com/vithorDeveloper">
-  <img height="150em" width="500em" src="https://github-readme-stats.vercel.app/api?username=vithorDeveloper&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="150em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vithorDeveloper&layout=compact&langs_count=7&theme=onedark"/>
-</div>
+    
+![vithorDeveloper's Stats](https://github-readme-stats.vercel.app/api?username=vithorDeveloper&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![vithorDeveloper's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vithorDeveloper&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![vithorDeveloper's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vithorDeveloper&theme=dark&hide_border=true)
 
 <br>
 <br>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vithorDeveloper&theme=dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
 
 <br>
 <br>
