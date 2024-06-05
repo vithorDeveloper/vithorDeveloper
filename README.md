@@ -1,4 +1,4 @@
-![header2](https://github.com/vithorDeveloper/vithorDeveloper/assets/116108525/f3a3e680-78a6-43e9-8062-f5ab953d4476)
+![github-header-image](https://github.com/vithorDeveloper/vithorDeveloper/assets/116108525/f27df3e8-81d3-4841-8ef6-c9b620e8d6f4)
 
 <br>
 
