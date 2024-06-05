@@ -6,15 +6,15 @@
 <br>
 
 <div aling="center">
-  <a href="https://github.com/v1t0r-png">
+  <a href="https://github.com/vithorDeveloper">
   <img height="150em" width="500em" src="https://github-readme-stats.vercel.app/api?username=v1t0r-png&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="150em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1t0r-png&layout=compact&langs_count=7&theme=onedark"/>
+  <img height="150em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vithorDeveloper&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 
 <br>
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=v1t0r-png&theme=dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vithorDeveloper&theme=dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
 
 <br>
 <br>
